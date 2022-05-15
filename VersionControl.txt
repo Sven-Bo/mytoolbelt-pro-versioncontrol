@@ -1,2 +1,2 @@
-2.1  | 2022/05/15 - Version 2.1 Released
 2.0  | 2021/11/08 - Version 2.0 Released
+2.1  | 2022/05/15 - Version 2.1 Released

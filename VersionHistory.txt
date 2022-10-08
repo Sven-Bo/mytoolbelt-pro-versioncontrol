@@ -1,2 +1,3 @@
+2.2  | 2022/10/10 - [New] Additional settings for creating a DataFrame 
 2.1  | 2022/05/15 - [New] Run Python files from Excel
 2.0  | 2021/11/08 - Version 2.0 Released

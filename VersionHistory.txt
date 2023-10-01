@@ -1,3 +1,4 @@
+2.5  | 2023/10/01 - [New] Integrated GPT-4 in AI companion; Added new tickmarks; Function to revert checkboxes to text
 2.4  | 2023/06/11 - [Fix] Rectified AI companion display issue due to API change
 2.3  | 2023/04/10 - [New] Introducing AI Completion feature
 2.2  | 2022/10/10 - [New] Additional settings for creating a DataFrame 

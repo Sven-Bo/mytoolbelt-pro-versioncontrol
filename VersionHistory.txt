@@ -1,3 +1,4 @@
+2.7  | 2023/10/31 - [Fix] Resolved issue with creating Python files when using OneDrive
 2.6  | 2023/10/08 - [Fix] Enhanced AI companion output by distributing responses across multiple rows instead of consolidating into a single cell; Addressed a type mismatch error in AI companion; [New] Introduced three additional tickmarks
 2.5  | 2023/10/01 - [New] Integrated GPT-4 in AI companion; Added new tickmarks; Function to revert checkboxes to text
 2.4  | 2023/06/11 - [Fix] Rectified AI companion display issue due to API change

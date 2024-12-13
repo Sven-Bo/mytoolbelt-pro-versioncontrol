@@ -1,3 +1,4 @@
+3.1  | 2024/12/13 - [New] Added feature to convert images into custom icons, allowing users to personalize their workbooks with unique icon.
 3.0  | 2024/05/24 - [New] Introduced the "AskAI" Excel formula, allowing users to interact with the OpenAI API (ChatGPT) directly from Excel using a simple formula.
 2.9  | 2024/05/16 - [New] All OpenAI models now available for free users; added models gpt-4-turbo and gpt-4o. The AI Companion settings menu now automatically updates with available models, eliminating the need for add-in updates when new models are released.
 2.8  | 2024/02/22 - [Fix] Corrected issue in AI Companion feature where certain numeric values were omitted from prompts; Optimized AI response output to eliminate blank rows and ensure automatic text wrapping in Excel cells.

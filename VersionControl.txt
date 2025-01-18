@@ -1,3 +1,4 @@
+3.2  | 2025/01/18 - Version 3.2 Released
 3.1  | 2024/12/13 - Version 3.1 Released
 3.0  | 2024/05/24 - Version 3.0 Released
 2.9  | 2024/05/16 - Version 2.9 Released
